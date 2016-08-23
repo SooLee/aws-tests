@@ -1,0 +1,7 @@
+{
+ "inputfiles": [
+   { "class": "File", "path": "xaa" },
+   { "class": "File", "path": "xab" },
+   { "class": "File", "path": "xac" }
+ ]
+}  
